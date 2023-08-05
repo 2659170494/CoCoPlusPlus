@@ -1,9 +1,9 @@
-<html>
 <div style="text-align:center;">
-<img src=https://github.com/2659170494/CoCoPlusPlus/blob/master/Image/CoCoPlusPlus_Logo/CoCoPlusPlus_Logo.svg/>
-<h1>CoCo++</h1>
+<p align="center">
+<img style="width: auto; height: 150px;" src=https://github.com/2659170494/CoCoPlusPlus/blob/master/Image/CoCoPlusPlus_Logo/CoCoPlusPlus_Logo.svg/>
+</p>
+<h1 align="center">CoCo++</h1>
 </div>
-</html>
 
 ## 简介
 
